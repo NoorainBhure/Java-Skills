@@ -1,8 +1,5 @@
 public class ReverseArray {
 
-
-
-
     public static void reverseArray(int[] marks){
         int left=0;
         int right=marks.length-1;
